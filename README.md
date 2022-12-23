@@ -1,5 +1,6 @@
 git clone https://github.com/Rayeesnoor538/Best-Tech
 
-cd BestTech
+cd Best-afg
 
 python2 Bestafg.py
+
